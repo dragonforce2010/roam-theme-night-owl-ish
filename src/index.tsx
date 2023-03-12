@@ -3,6 +3,7 @@ import './night-owl.css'
 
 
 function onload() {
+  document.body.className = 'night-owlish'
 }
 
 function onunload() {
